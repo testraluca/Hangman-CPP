@@ -1,0 +1,11 @@
+﻿  SecretWord.cpp
+  Scoreboard.cpp
+\\mac\dropbox\uio\uio 2016\pa1\source code project assignment\1. hangman\hangman-cpp\hangman-cpp\scoreboard.cpp(54): warning C4018: '<': signed/unsigned mismatch
+\\mac\dropbox\uio\uio 2016\pa1\source code project assignment\1. hangman\hangman-cpp\hangman-cpp\scoreboard.cpp(81): warning C4018: '<=': signed/unsigned mismatch
+  main.cpp
+\\mac\dropbox\uio\uio 2016\pa1\source code project assignment\1. hangman\hangman-cpp\hangman-cpp\main.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HangmanGame.cpp
+  Generating Code...
+\\mac\dropbox\uio\uio 2016\pa1\source code project assignment\1. hangman\hangman-cpp\hangman-cpp\secretword.cpp(23): warning C4715: 'SecretWord::RevealNextLetter': not all control paths return a value
+HangmanGame.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Hangman.vcxproj -> \\Mac\Dropbox\UiO\UiO 2016\PA1\Source Code Project Assignment\1. Hangman\Hangman-CPP\Hangman-CPP\Debug\Hangman.exe
